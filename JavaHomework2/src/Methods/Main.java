@@ -9,7 +9,7 @@ public class Main {
 	public static void sayiBulmaca() {// method
 
 		int[] sayilar = new int[] { 1, 2, 5, 7, 9 };
-		int aranacak = 6;
+		int aranacak = 5;
 
 		boolean varMi = false;
 
